@@ -1,0 +1,1991 @@
+starting worker pid=25008 on localhost:11561 at 00:00:20.324
+starting worker pid=4216 on localhost:11561 at 00:00:20.509
+starting worker pid=27864 on localhost:11561 at 00:00:20.679
+starting worker pid=14372 on localhost:11561 at 00:00:20.841
+starting worker pid=22764 on localhost:11561 at 00:00:21.013
+starting worker pid=9664 on localhost:11561 at 00:00:21.183
+starting worker pid=11484 on localhost:11561 at 00:00:21.340
+starting worker pid=18488 on localhost:11561 at 00:00:21.507
+Loading required package: caret
+Loading required package: caret
+Loading required package: caret
+Loading required package: caret
+Loading required package: caret
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+loaded caret and set parent environment
+Loading required package: lattice
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: intercept=TRUE 
++ Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold2.Rep1: ncomp=15 
++ Fold1.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold2.Rep1: C=1 
++ Fold1.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 4 
++ Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=10 
++ Fold1.Rep1: mtry=16 
++ Fold1.Rep1: mtry=14 
++ Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry= 6 
++ Fold1.Rep1: mtry=12 
+- Fold1.Rep1: mtry=10 
++ Fold1.Rep1: mtry=19 
+- Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=21 
+- Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry=23 
+- Fold1.Rep1: mtry=14 
++ Fold1.Rep1: mtry=25 
+- Fold1.Rep1: mtry= 4 
++ Fold1.Rep1: mtry=27 
+- Fold1.Rep1: mtry=12 
++ Fold1.Rep1: mtry=29 
+- Fold1.Rep1: mtry= 6 
++ Fold1.Rep1: mtry=31 
+- Fold1.Rep1: mtry=16 
++ Fold1.Rep1: mtry=34 
+- Fold1.Rep1: mtry=19 
++ Fold1.Rep1: mtry=36 
+- Fold1.Rep1: mtry=21 
++ Fold1.Rep1: mtry=38 
+- Fold1.Rep1: mtry=23 
++ Fold1.Rep1: mtry=40 
+- Fold1.Rep1: mtry=25 
++ Fold1.Rep1: mtry=42 
+- Fold1.Rep1: mtry=27 
++ Fold1.Rep1: mtry=44 
+- Fold1.Rep1: mtry=29 
++ Fold1.Rep1: mtry=46 
+- Fold1.Rep1: mtry=31 
++ Fold1.Rep1: mtry=49 
+- Fold1.Rep1: mtry=34 
++ Fold1.Rep1: mtry=51 
+- Fold1.Rep1: mtry=36 
++ Fold1.Rep1: mtry=53 
+- Fold1.Rep1: mtry=38 
++ Fold1.Rep1: mtry=55 
+- Fold1.Rep1: mtry=40 
++ Fold1.Rep1: mtry=57 
+- Fold1.Rep1: mtry=42 
++ Fold1.Rep1: mtry=59 
+- Fold1.Rep1: mtry=44 
++ Fold1.Rep1: mtry=61 
+- Fold1.Rep1: mtry=46 
++ Fold1.Rep1: mtry=64 
+- Fold1.Rep1: mtry=49 
++ Fold2.Rep1: mtry= 2 
+- Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry= 4 
+- Fold1.Rep1: mtry=51 
++ Fold2.Rep1: mtry= 6 
+- Fold1.Rep1: mtry=55 
++ Fold2.Rep1: mtry= 8 
+- Fold2.Rep1: mtry= 4 
++ Fold2.Rep1: mtry=10 
+- Fold1.Rep1: mtry=53 
++ Fold2.Rep1: mtry=12 
+- Fold2.Rep1: mtry= 6 
++ Fold2.Rep1: mtry=14 
+- Fold1.Rep1: mtry=57 
++ Fold2.Rep1: mtry=16 
+- Fold2.Rep1: mtry= 8 
+ 
+ 
+  - Fold2.Rep1: mtry=59 
+- Fold2.Rep1: mtry=61 
+- Fold2.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0035             nan     0.1000    0.0325
+     2        0.9680             nan     0.1000    0.0263
+     3        0.9373             nan     0.1000    0.0239
+     4        0.9139             nan     0.1000    0.0144
+     5        0.8921             nan     0.1000    0.0102
+     6        0.8725             nan     0.1000    0.0150
+     7        0.8555             nan     0.1000    0.0073
+     8        0.8370             nan     0.1000    0.0150
+     9        0.8242             nan     0.1000    0.0050
+    10        0.8119             nan     0.1000    0.0012
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0167             nan     0.1000    0.0275
+     2        0.9915             nan     0.1000    0.0213
+     3        0.9699             nan     0.1000    0.0149
+     4        0.9452             nan     0.1000    0.0189
+    20        0.7151             nan     0.1000    0.0018
+     5        0.9227             nan     0.1000    0.0144
+     6        0.9069             nan     0.1000    0.0126
+     7        0.8987             nan     0.1000    0.0059
+     8        0.8826             nan     0.1000    0.0119
+     9        0.8718             nan     0.1000    0.0033
+    10        0.8623             nan     0.1000    0.0072
+    20        0.7900             nan     0.1000    0.0000
+    40        0.7057             nan     0.1000   -0.0016
+    40        0.6007             nan     0.1000    0.0024
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0071             nan     0.1000    0.0309
+     2        0.9671             nan     0.1000    0.0386
+    60        0.6489             nan     0.1000   -0.0009
+     3        0.9320             nan     0.1000    0.0225
+     4        0.8950             nan     0.1000    0.0358
+     5        0.8687             nan     0.1000    0.0234
+     6        0.8474             nan     0.1000    0.0182
+     7        0.8242             nan     0.1000    0.0176
+     8        0.7995             nan     0.1000    0.0154
+     9        0.7786             nan     0.1000    0.0102
+    10        0.7612             nan     0.1000    0.0086
+    80        0.6031             nan     0.1000   -0.0011
+    60        0.5293             nan     0.1000    0.0005
+   100        0.5709             nan     0.1000   -0.0013
+    20        0.6450             nan     0.1000    0.0043
+    80        0.4750             nan     0.1000   -0.0020
+   120        0.5422             nan     0.1000   -0.0014
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9182             nan     0.1000    0.0302
+     2        0.8937             nan     0.1000    0.0127
+   140        0.5216             nan     0.1000   -0.0008
+     3        0.8735             nan     0.1000    0.0135
+     4        0.8605             nan     0.1000    0.0056
+     5        0.8401             nan     0.1000    0.0128
+     6        0.8229             nan     0.1000    0.0119
+     7        0.8124             nan     0.1000    0.0062
+     8        0.8001             nan     0.1000    0.0088
+   150        0.5082             nan     0.1000   -0.0005
+
+     9        0.7841             nan     0.1000    0.0116
+    10        0.7708             nan     0.1000    0.0085
+   100        0.4313             nan     0.1000   -0.0010
+    40        0.5056             nan     0.1000   -0.0020
+    20        0.6822             nan     0.1000    0.0032
+   120        0.3965             nan     0.1000   -0.0010
+    60        0.4295             nan     0.1000   -0.0023
+    40        0.5901             nan     0.1000   -0.0060
+   140        0.3665             nan     0.1000   -0.0009
+    60        0.5280             nan     0.1000   -0.0033
+   150        0.3551             nan     0.1000   -0.0011
+
+    80        0.3682             nan     0.1000   -0.0023
+    80        0.4725             nan     0.1000   -0.0012
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   100        0.3248             nan     0.1000   -0.0005
+   100        0.4326             nan     0.1000   -0.0022
+   120        0.3971             nan     0.1000   -0.0022
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9251             nan     0.1000    0.0255
+     2        0.9039             nan     0.1000    0.0193
+     3        0.8824             nan     0.1000    0.0179
+     4        0.8652             nan     0.1000    0.0163
+     5        0.8496             nan     0.1000    0.0118
+     6        0.8394             nan     0.1000    0.0077
+     7        0.8294             nan     0.1000    0.0086
+     8        0.8196             nan     0.1000    0.0038
+     9        0.8099             nan     0.1000    0.0058
+    10        0.8045             nan     0.1000    0.0023
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+   120        0.2897             nan     0.1000   -0.0023
+     1        0.9166             nan     0.1000    0.0319
+     2        0.8849             nan     0.1000    0.0243
+    20        0.7516             nan     0.1000    0.0023
+     3        0.8465             nan     0.1000    0.0226
+     4        0.8231             nan     0.1000    0.0147
+     5        0.8041             nan     0.1000    0.0179
+     6        0.7815             nan     0.1000    0.0130
+     7        0.7658             nan     0.1000    0.0099
+     8        0.7475             nan     0.1000    0.0132
+     9        0.7361             nan     0.1000    0.0049
+    40        0.6855             nan     0.1000    0.0009
+    10        0.7270             nan     0.1000   -0.0000
+   140        0.3683             nan     0.1000   -0.0011
+    60        0.6414             nan     0.1000    0.0009
+   140        0.2603             nan     0.1000   -0.0016
+   150        0.3559             nan     0.1000   -0.0007
+
+    20        0.6305             nan     0.1000   -0.0001
+    80        0.6121             nan     0.1000   -0.0019
+   150        0.2470             nan     0.1000   -0.0007
+
+   100        0.5846             nan     0.1000   -0.0003
+    40        0.5231             nan     0.1000    0.0002
+   120        0.5590             nan     0.1000   -0.0004
+   140        0.5371             nan     0.1000   -0.0008
+   150        0.5271             nan     0.1000   -0.0009
+
+    60        0.4486             nan     0.1000   -0.0046
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+    80        0.3913             nan     0.1000   -0.0019
+   100        0.3421             nan     0.1000   -0.0024
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   120        0.3082             nan     0.1000   -0.0025
+   140        0.2765             nan     0.1000   -0.0009
+   150        0.2633             nan     0.1000   -0.0006
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: intercept=TRUE 
++ Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: ncomp=15 
++ Fold2.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold2.Rep1: C=1 
++ Fold1.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
+Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50  Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry= 4 
++ Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry=10 
++ Fold1.Rep1: mtry=12 
++ Fold1.Rep1: mtry=14 
++ Fold1.Rep1: mtry=16 
++ Fold1.Rep1: mtry= 6 
+- Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=19 
+- Fold1.Rep1: mtry= 4 
++ Fold1.Rep1: mtry=21 
+- Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry=23 
+- Fold1.Rep1: mtry=10 
++ Fold1.Rep1: mtry=25 
+- Fold1.Rep1: mtry=12 
++ Fold1.Rep1: mtry=27 
+- Fold1.Rep1: mtry=14 
++ Fold1.Rep1: mtry=29 
+- Fold1.Rep1: mtry= 6 
++ Fold1.Rep1: mtry=31 
+- Fold1.Rep1: mtry=19 
++ Fold1.Rep1: mtry=34 
+- Fold1.Rep1: mtry=16 
++ Fold1.Rep1: mtry=36 
+- Fold1.Rep1: mtry=23 
++ Fold1.Rep1: mtry=38 
+- Fold1.Rep1: mtry=25 
++ Fold1.Rep1: mtry=40 
+- Fold1.Rep1: mtry=21 
++ Fold1.Rep1: mtry=42 
+- Fold1.Rep1: mtry=29 
++ Fold1.Rep1: mtry=44 
+- Fold1.Rep1: mtry=27 
++ Fold1.Rep1: mtry=46 
+- Fold1.Rep1: mtry=31 
++ Fold1.Rep1: mtry=49 
+- Fold1.Rep1: mtry=36 
++ Fold1.Rep1: mtry=51 
+- Fold1.Rep1: mtry=34 
++ Fold1.Rep1: mtry=53 
+- Fold1.Rep1: mtry=42 
++ Fold1.Rep1: mtry=55 
+- Fold1.Rep1: mtry=38 
++ Fold1.Rep1: mtry=57 
+- Fold1.Rep1: mtry=40 
++ Fold1.Rep1: mtry=59 
+- Fold1.Rep1: mtry=44 
++ Fold1.Rep1: mtry=61 
+- Fold1.Rep1: mtry=46 
++ Fold1.Rep1: mtry=64 
+- Fold1.Rep1: mtry=49 
++ Fold2.Rep1: mtry= 2 
+- Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry= 4 
+- Fold2.Rep1: mtry= 4 
++ Fold2.Rep1: mtry= 6 
+- Fold1.Rep1: mtry=51 
++ Fold2.Rep1: mtry= 8 
+- Fold2.Rep1: mtry= 6 
++ Fold2.Rep1: mtry=10 
+- Fold1.Rep1: mtry=53 
++ Fold2.Rep1: mtry=12 
+- Fold2.Rep1: mtry= 8 
++ Fold2.Rep1: mtry=14 
+- Fold2.Rep1: mtry=10 
++ Fold2.Rep1: mtry=16 
+- Fold2.Rep1: mtry=12 
++ Fold2.Rep1: mtry=19 
+- Fold1.Rep1: mtry=55 
++ Fold2.Rep1: mtry=21 
+- Fold1.Rep1: mtry=57 
++ Fold2.Rep1: mtry=23 
+- Fold2.Rep1: mtry=14 
++ Fold2.Rep1: mtry=25 
+- Fold1.Rep1: mtry=59 
++ Fold2.Rep1: mtry=27 
+- Fold2.Rep1: mtry=16 
++ Fold2.Rep1: mtry=29 
+- Fold1.Rep1: mtry=61 
++ Fold2.Rep1: mtry=31 
+- Fold2.Rep1: mtry=19 
++ Fold2.Rep1: mtry=34 
+- Fold2.Rep1: mtry=21 
++ Fold2.Rep1: mtry=36 
+- Fold1.Rep1: mtry=64 
++ Fold2.Rep1: mtry=38 
+- Fold2.Rep1: mtry=23 
++ Fold2.Rep1: mtry=40 
+- Fold2.Rep1: mtry=25 
++ Fold2.Rep1: mtry=42 
+- Fold2.Rep1: mtry=27 
++ Fold2.Rep1: mtry=44 
+- Fold2.Rep1: mtry=29 
++ Fold2.Rep1: mtry=46 
+- Fold2.Rep1: mtry=31 
++ Fold2.Rep1: mtry=49 
+- Fold2.Rep1: mtry=34 
++ Fold2.Rep1: mtry=51 
+- Fold2.Rep1: mtry=36 
++ Fold2.Rep1: mtry=53 
+- Fold2.Rep1: mtry=38 
++ Fold2.Rep1: mtry=55 
+- Fold2.Rep1: mtry=40 
++ Fold2.Rep1: mtry=57 
+- Fold2.Rep1: mtry=42 
++ Fold2.Rep1: mtry=59 
+- Fold2.Rep1: mtry=44 
++ Fold2.Rep1: mtry=61 
+- Fold2.Rep1: mtry=46 
++ Fold2.Rep1: mtry=64 
+- Fold2.Rep1: mtry=49 
+- Fold2.Rep1: mtry=51 
+- Fold2.Rep1: mtry=53 
+- Fold2.Rep1: mtry=55 
+- Fold2.Rep1: mtry=57 
+- Fold2.Rep1: mtry=59 
+- Fold2.Rep1: mtry=61 
+- Fold2.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9251             nan     0.1000    0.0255
+     1        1.0167             nan     0.1000    0.0275
+     2        0.9039             nan     0.1000    0.0193
+     2        0.9915             nan     0.1000    0.0213
+     3        0.8824             nan     0.1000    0.0179
+     3        0.9699             nan     0.1000    0.0149
+     4        0.9452             nan     0.1000    0.0189
+     4        0.8652             nan     0.1000    0.0163
+     5        0.9227             nan     0.1000    0.0144
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     5        0.8496             nan     0.1000    0.0118
+     6        0.9069             nan     0.1000    0.0126
+     6        0.8394             nan     0.1000    0.0077
+     7        0.8987             nan     0.1000    0.0059
+     1        0.9182             nan     0.1000    0.0302
+     7        0.8294             nan     0.1000    0.0086
+     8        0.8826             nan     0.1000    0.0119
+     1        0.9166             nan     0.1000    0.0319
+     8        0.8196             nan     0.1000    0.0038
+     9        0.8718             nan     0.1000    0.0033
+     9        0.8099             nan     0.1000    0.0058
+     2        0.8937             nan     0.1000    0.0127
+    10        0.8623             nan     0.1000    0.0072
+     2        0.8849             nan     0.1000    0.0243
+    10        0.8045             nan     0.1000    0.0023
+     3        0.8735             nan     0.1000    0.0135
+     3        0.8465             nan     0.1000    0.0226
+     4        0.8605             nan     0.1000    0.0056
+     4        0.8231             nan     0.1000    0.0147
+     5        0.8401             nan     0.1000    0.0128
+     5        0.8041             nan     0.1000    0.0179
+     6        0.8229             nan     0.1000    0.0119
+     6        0.7815             nan     0.1000    0.0130
+     7        0.8124             nan     0.1000    0.0062
+    20        0.7900             nan     0.1000    0.0000
+    20        0.7516             nan     0.1000    0.0023
+     8        0.8001             nan     0.1000    0.0088
+     7        0.7658             nan     0.1000    0.0099
+     9        0.7841             nan     0.1000    0.0116
+     8        0.7475             nan     0.1000    0.0132
+    10        0.7708             nan     0.1000    0.0085
+     9        0.7361             nan     0.1000    0.0049
+    10        0.7270             nan     0.1000   -0.0000
+    40        0.6855             nan     0.1000    0.0009
+    40        0.7057             nan     0.1000   -0.0016
+    20        0.6822             nan     0.1000    0.0032
+    20        0.6305             nan     0.1000   -0.0001
+    60        0.6489             nan     0.1000   -0.0009
+    60        0.6414             nan     0.1000    0.0009
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0035             nan     0.1000    0.0325
+    80        0.6031             nan     0.1000   -0.0011
+    40        0.5901             nan     0.1000   -0.0060
+     2        0.9680             nan     0.1000    0.0263
+    80        0.6121             nan     0.1000   -0.0019
+     3        0.9373             nan     0.1000    0.0239
+     1        1.0071             nan     0.1000    0.0309
+     4        0.9139             nan     0.1000    0.0144
+     2        0.9671             nan     0.1000    0.0386
+     5        0.8921             nan     0.1000    0.0102
+     6        0.8725             nan     0.1000    0.0150
+     3        0.9320             nan     0.1000    0.0225
+     7        0.8555             nan     0.1000    0.0073
+     4        0.8950             nan     0.1000    0.0358
+     8        0.8370             nan     0.1000    0.0150
+     9        0.8242             nan     0.1000    0.0050
+     5        0.8687             nan     0.1000    0.0234
+    10        0.8119             nan     0.1000    0.0012
+   100        0.5709             nan     0.1000   -0.0013
+     6        0.8474             nan     0.1000    0.0182
+     7        0.8242             nan     0.1000    0.0176
+   100        0.5846             nan     0.1000   -0.0003
+     8        0.7995             nan     0.1000    0.0154
+     9        0.7786             nan     0.1000    0.0102
+    40        0.5231             nan     0.1000    0.0002
+    10        0.7612             nan     0.1000    0.0086
+   120        0.5422             nan     0.1000   -0.0014
+    60        0.5280             nan     0.1000   -0.0033
+   120        0.5590             nan     0.1000   -0.0004
+   140        0.5216             nan     0.1000   -0.0008
+   140        0.5371             nan     0.1000   -0.0008
+    20        0.6450             nan     0.1000    0.0043
+   150        0.5271             nan     0.1000   -0.0009
+
+   150        0.5082             nan     0.1000   -0.0005
+
+    40        0.6007             nan     0.1000    0.0024
+    80        0.4725             nan     0.1000   -0.0012
+    60        0.4486             nan     0.1000   -0.0046
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   100        0.4326             nan     0.1000   -0.0022
+    60        0.5293             nan     0.1000    0.0005
+    40        0.5056             nan     0.1000   -0.0020
+    80        0.3913             nan     0.1000   -0.0019
+   120        0.3971             nan     0.1000   -0.0022
+    80        0.4750             nan     0.1000   -0.0020
+    60        0.4295             nan     0.1000   -0.0023
+   140        0.3683             nan     0.1000   -0.0011
+   100        0.4313             nan     0.1000   -0.0010
+   100        0.3421             nan     0.1000   -0.0024
+   150        0.3559             nan     0.1000   -0.0007
+
+   120        0.3965             nan     0.1000   -0.0010
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+    80        0.3682             nan     0.1000   -0.0023
+   120        0.3082             nan     0.1000   -0.0025
+   140        0.3665             nan     0.1000   -0.0009
+   150        0.3551             nan     0.1000   -0.0011
+
+   100        0.3248             nan     0.1000   -0.0005
+   140        0.2765             nan     0.1000   -0.0009
+   150        0.2633             nan     0.1000   -0.0006
+
+   120        0.2897             nan     0.1000   -0.0023
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+   140        0.2603             nan     0.1000   -0.0016
+   150        0.2470             nan     0.1000   -0.0007
+
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: intercept=TRUE 
++ Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: ncomp=15 
++ Fold2.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: C=1 
++ Fold2.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry=15 
++ Fold1.Rep1: mtry=22 
++ Fold1.Rep1: mtry=29 
++ Fold1.Rep1: mtry=36 
++ Fold1.Rep1: mtry=43 
++ Fold1.Rep1: mtry=50 
+- Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=57 
+- Fold1.Rep1: mtry= 8 
++ Fold1.Rep1: mtry=64 
+- Fold1.Rep1: mtry=15 
++ Fold2.Rep1: mtry= 2 
+- Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry= 8 
+- Fold1.Rep1: mtry=22 
++ Fold2.Rep1: mtry=15 
+- Fold1.Rep1: mtry=29 
++ Fold2.Rep1: mtry=22 
+- Fold2.Rep1: mtry= 8 
++ Fold2.Rep1: mtry=29 
+- Fold1.Rep1: mtry=36 
++ Fold2.Rep1: mtry=36 
+- Fold2.Rep1: mtry=15 
++ Fold2.Rep1: mtry=43 
+- Fold1.Rep1: mtry=43 
++ Fold2.Rep1: mtry=50 
+- Fold1.Rep1: mtry=50 
++ Fold2.Rep1: mtry=57 
+- Fold2.Rep1: mtry=22 
++ Fold2.Rep1: mtry=64 
+- Fold1.Rep1: mtry=57 
+- Fold2.Rep1: mtry=29 
+- Fold2.Rep1: mtry=36 
+- Fold1.Rep1: mtry=64 
+- Fold2.Rep1: mtry=43 
+- Fold2.Rep1: mtry=50 
+- Fold2.Rep1: mtry=57 
+- Fold2.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0003             nan     0.1000    0.0390
+     2        0.9729             nan     0.1000    0.0184
+     3        0.9415             nan     0.1000    0.0199
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     4        0.9110             nan     0.1000    0.0197
+     1        0.9140             nan     0.1000    0.0301
+     5        0.8874             nan     0.1000    0.0210
+     2        0.8860             nan     0.1000    0.0248
+     6        0.8648             nan     0.1000    0.0095
+     3        0.8601             nan     0.1000    0.0194
+     7        0.8502             nan     0.1000    0.0062
+     4        0.8399             nan     0.1000    0.0151
+     8        0.8362             nan     0.1000    0.0073
+     5        0.8232             nan     0.1000    0.0122
+     9        0.8215             nan     0.1000    0.0084
+    10        0.8087             nan     0.1000    0.0066
+     6        0.8087             nan     0.1000    0.0057
+     7        0.7946             nan     0.1000    0.0107
+     8        0.7846             nan     0.1000    0.0039
+     9        0.7720             nan     0.1000    0.0091
+    10        0.7610             nan     0.1000    0.0038
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+    20        0.7056             nan     0.1000    0.0041
+     1        1.0103             nan     0.1000    0.0293
+     2        0.9786             nan     0.1000    0.0260
+     3        0.9592             nan     0.1000    0.0198
+     4        0.9459             nan     0.1000    0.0114
+     5        0.9291             nan     0.1000    0.0157
+     6        0.9174             nan     0.1000    0.0076
+     7        0.8998             nan     0.1000    0.0170
+    20        0.6906             nan     0.1000   -0.0034
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     8        0.8883             nan     0.1000    0.0066
+     9        0.8743             nan     0.1000    0.0073
+    10        0.8637             nan     0.1000    0.0094
+     1        1.0042             nan     0.1000    0.0406
+     2        0.9624             nan     0.1000    0.0359
+     3        0.9273             nan     0.1000    0.0260
+     4        0.8973             nan     0.1000    0.0249
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9236             nan     0.1000    0.0270
+     5        0.8662             nan     0.1000    0.0252
+     2        0.9008             nan     0.1000    0.0219
+     3        0.8823             nan     0.1000    0.0172
+     4        0.8725             nan     0.1000    0.0055
+     5        0.8590             nan     0.1000    0.0134
+     6        0.8387             nan     0.1000    0.0229
+     6        0.8495             nan     0.1000    0.0080
+     7        0.8401             nan     0.1000    0.0043
+    20        0.7892             nan     0.1000   -0.0005
+     8        0.8308             nan     0.1000    0.0054
+     9        0.8207             nan     0.1000    0.0089
+     7        0.8176             nan     0.1000    0.0114
+     8        0.8007             nan     0.1000    0.0088
+     9        0.7827             nan     0.1000    0.0092
+    10        0.7659             nan     0.1000    0.0101
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+    20        0.7591             nan     0.1000    0.0021
+     1        0.9155             nan     0.1000    0.0284
+     2        0.8822             nan     0.1000    0.0250
+    40        0.5912             nan     0.1000    0.0025
+     3        0.8555             nan     0.1000    0.0155
+    40        0.5976             nan     0.1000   -0.0012
+     4        0.8296             nan     0.1000    0.0181
+     5        0.8109             nan     0.1000    0.0039
+    40        0.7098             nan     0.1000    0.0009
+     6        0.7922             nan     0.1000    0.0106
+    40        0.6963             nan     0.1000   -0.0013
+     7        0.7725             nan     0.1000    0.0137
+     8        0.7547             nan     0.1000    0.0066
+     9        0.7415             nan     0.1000    0.0055
+    20        0.6500             nan     0.1000    0.0022
+    10        0.7280             nan     0.1000    0.0026
+    60        0.6490             nan     0.1000   -0.0005
+    60        0.5170             nan     0.1000   -0.0008
+    60        0.6553             nan     0.1000   -0.0009
+    60        0.5320             nan     0.1000   -0.0013
+    80        0.6137             nan     0.1000   -0.0016
+    80        0.6130             nan     0.1000   -0.0027
+    20        0.6240             nan     0.1000    0.0040
+   100        0.5805             nan     0.1000   -0.0010
+    80        0.4649             nan     0.1000   -0.0013
+    40        0.5197             nan     0.1000   -0.0006
+   100        0.5855             nan     0.1000   -0.0020
+    80        0.4847             nan     0.1000   -0.0008
+   120        0.5549             nan     0.1000   -0.0015
+   120        0.5586             nan     0.1000   -0.0004
+   140        0.5381             nan     0.1000    0.0002
+   100        0.4235             nan     0.1000   -0.0031
+   140        0.5327             nan     0.1000   -0.0007
+    40        0.5215             nan     0.1000   -0.0048
+   150        0.5294             nan     0.1000   -0.0035
+
+   100        0.4417             nan     0.1000   -0.0026
+   150        0.5218             nan     0.1000    0.0010
+
+    60        0.4414             nan     0.1000   -0.0021
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   120        0.3917             nan     0.1000   -0.0013
+   120        0.4048             nan     0.1000   -0.0019
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+    60        0.4474             nan     0.1000    0.0009
+    80        0.3821             nan     0.1000   -0.0020
+   140        0.3641             nan     0.1000   -0.0010
+   140        0.3750             nan     0.1000   -0.0011
+   150        0.3504             nan     0.1000   -0.0013
+
+   150        0.3622             nan     0.1000   -0.0014
+
+    80        0.3930             nan     0.1000   -0.0010
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   100        0.3424             nan     0.1000   -0.0003
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   100        0.3491             nan     0.1000   -0.0021
+   120        0.3028             nan     0.1000   -0.0017
+   120        0.3107             nan     0.1000   -0.0006
+   140        0.2715             nan     0.1000   -0.0020
+   150        0.2563             nan     0.1000   -0.0016
+
+   140        0.2796             nan     0.1000   -0.0012
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+   150        0.2659             nan     0.1000   -0.0013
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold2.Rep1: intercept=TRUE 
++ Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: ncomp=15 
++ Fold2.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: C=1 
++ Fold2.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=48 
++ Fold1.Rep1: mtry=64 
++ Fold2.Rep1: mtry=17 
++ Fold2.Rep1: mtry= 2  Fold1.Rep1: mtry=17
+
++ Fold1.Rep1: mtry=33 
++ Fold2.Rep1: mtry=33 
+- Fold1.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=48 
+- Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=64 
+- Fold2.Rep1: mtry=17 
+- Fold1.Rep1: mtry=17 
+- Fold1.Rep1: mtry=33 
+- Fold2.Rep1: mtry=33 
+- Fold1.Rep1: mtry=48 
+- Fold2.Rep1: mtry=48 
+- Fold1.Rep1: mtry=64 
+- Fold2.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150  
+
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9135             nan     0.1000    0.0342
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0135             nan     0.1000    0.0294
+     2        0.8808             nan     0.1000    0.0284
+     2        0.9925             nan     0.1000    0.0143
+     3        0.9664             nan     0.1000    0.0239
+     4        0.9424             nan     0.1000    0.0198
+     3        0.8545             nan     0.1000    0.0163
+     5        0.9278             nan     0.1000    0.0136
+     6        0.9103             nan     0.1000    0.0165
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     7        0.8962             nan     0.1000    0.0086
+     4        0.8276             nan     0.1000    0.0155
+     8        0.8805             nan     0.1000    0.0132
+     9        0.8684             nan     0.1000    0.0119
+    10        0.8567             nan     0.1000    0.0052
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     5        0.8017             nan     0.1000    0.0210
+     1        0.9956             nan     0.1000    0.0389
+     1        0.9237             nan     0.1000    0.0201
+     2        0.9023             nan     0.1000    0.0220
+     6        0.7864             nan     0.1000    0.0052
+     3        0.8879             nan     0.1000    0.0097
+     2        0.9547             nan     0.1000    0.0258
+     4        0.8723             nan     0.1000    0.0146
+     7        0.7722             nan     0.1000    0.0046
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     5        0.8567             nan     0.1000    0.0130
+     6        0.8413             nan     0.1000    0.0089
+     8        0.7584             nan     0.1000    0.0053
+    20        0.7867             nan     0.1000    0.0005
+     3        0.9244             nan     0.1000    0.0157
+     1        1.0054             nan     0.1000    0.0326
+     7        0.8309             nan     0.1000    0.0048
+     8        0.8230             nan     0.1000    0.0076
+     9        0.7451             nan     0.1000    0.0048
+     2        0.9741             nan     0.1000    0.0294
+     4        0.8918             nan     0.1000    0.0231
+     9        0.8172             nan     0.1000    0.0038
+    10        0.8105             nan     0.1000    0.0018
+    10        0.7313             nan     0.1000    0.0060
+     3        0.9473             nan     0.1000    0.0241
+     5        0.8655             nan     0.1000    0.0189
+     4        0.9224             nan     0.1000    0.0214
+     6        0.8428             nan     0.1000    0.0177
+     5        0.9039             nan     0.1000    0.0148
+     6        0.8804             nan     0.1000    0.0181
+     7        0.8191             nan     0.1000    0.0090
+     7        0.8613             nan     0.1000    0.0154
+     8        0.8472             nan     0.1000    0.0118
+     8        0.8024             nan     0.1000    0.0061
+     9        0.8310             nan     0.1000    0.0085
+    20        0.7527             nan     0.1000    0.0016
+    10        0.8205             nan     0.1000    0.0012
+     9        0.7844             nan     0.1000    0.0123
+    40        0.7076             nan     0.1000   -0.0022
+    10        0.7680             nan     0.1000    0.0050
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9143             nan     0.1000    0.0322
+    20        0.6332             nan     0.1000   -0.0004
+    20        0.7091             nan     0.1000    0.0041
+     2        0.8889             nan     0.1000    0.0227
+     3        0.8665             nan     0.1000    0.0179
+     4        0.8486             nan     0.1000    0.0112
+     5        0.8375             nan     0.1000    0.0028
+    40        0.6882             nan     0.1000   -0.0002
+     6        0.8203             nan     0.1000    0.0150
+    60        0.6498             nan     0.1000    0.0019
+     7        0.8028             nan     0.1000    0.0121
+     8        0.7893             nan     0.1000    0.0089
+     9        0.7793             nan     0.1000    0.0036
+    10        0.7714             nan     0.1000    0.0012
+    20        0.6462             nan     0.1000    0.0006
+    60        0.6458             nan     0.1000   -0.0004
+    80        0.6079             nan     0.1000   -0.0034
+    40        0.5992             nan     0.1000    0.0000
+    20        0.6968             nan     0.1000    0.0005
+    80        0.6107             nan     0.1000   -0.0006
+   100        0.5748             nan     0.1000    0.0004
+    40        0.5243             nan     0.1000   -0.0047
+   100        0.5827             nan     0.1000   -0.0027
+   120        0.5485             nan     0.1000   -0.0009
+    60        0.5253             nan     0.1000   -0.0024
+    40        0.5180             nan     0.1000   -0.0001
+    40        0.5953             nan     0.1000    0.0007
+   120        0.5581             nan     0.1000   -0.0001
+   140        0.5236             nan     0.1000   -0.0016
+    80        0.4713             nan     0.1000   -0.0014
+   150        0.5142             nan     0.1000   -0.0005
+
+    60        0.5362             nan     0.1000   -0.0011
+   140        0.5361             nan     0.1000   -0.0031
+    60        0.4447             nan     0.1000   -0.0033
+   150        0.5249             nan     0.1000   -0.0015
+
+    60        0.4338             nan     0.1000   -0.0044
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   100        0.4289             nan     0.1000   -0.0006
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+    80        0.4878             nan     0.1000   -0.0029
+    80        0.3878             nan     0.1000   -0.0024
+    80        0.3759             nan     0.1000   -0.0016
+   120        0.3947             nan     0.1000   -0.0004
+   100        0.4475             nan     0.1000   -0.0018
+   140        0.3651             nan     0.1000   -0.0016
+   100        0.3280             nan     0.1000   -0.0011
+   100        0.3428             nan     0.1000   -0.0031
+   150        0.3521             nan     0.1000   -0.0009
+
+   120        0.4190             nan     0.1000   -0.0015
+   140        0.3861             nan     0.1000   -0.0013
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   120        0.3063             nan     0.1000   -0.0003
+   120        0.2934             nan     0.1000   -0.0018
+   150        0.3732             nan     0.1000   -0.0015
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   140        0.2785             nan     0.1000   -0.0018
+   140        0.2666             nan     0.1000   -0.0017
+   150        0.2651             nan     0.1000   -0.0001
+
+   150        0.2534             nan     0.1000   -0.0018
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: intercept=TRUE 
++ Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: ncomp=15 
++ Fold2.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: C=1 
++ Fold2.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
+Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 2 
++ Fold1.Rep1: mtry=64 
++ Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=64 
+- Fold1.Rep1: mtry= 2 
+- Fold2.Rep1: mtry= 2 
+- Fold2.Rep1: mtry=64 
+- Fold1.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        1.0084             nan     0.1000    0.0340
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     2        0.9726             nan     0.1000    0.0299
+     1        0.9304             nan     0.1000    0.0258
+     2        0.9115             nan     0.1000    0.0221
+     3        0.9442             nan     0.1000    0.0182
+     3        0.8920             nan     0.1000    0.0187
+     4        0.8754             nan     0.1000    0.0157
+     4        0.9154             nan     0.1000    0.0193
+     5        0.8608             nan     0.1000    0.0139
+     6        0.8523             nan     0.1000    0.0044
+     5        0.8926             nan     0.1000    0.0233
+     7        0.8444             nan     0.1000    0.0071
+     6        0.8744             nan     0.1000    0.0140
+     8        0.8330             nan     0.1000    0.0072
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     9        0.8249             nan     0.1000    0.0054
+     7        0.8577             nan     0.1000    0.0115
+    10        0.8155             nan     0.1000    0.0049
+     8        0.8395             nan     0.1000    0.0119
+     1        0.9981             nan     0.1000    0.0383
+     9        0.8265             nan     0.1000    0.0029
+    10        0.8120             nan     0.1000    0.0106
+     2        0.9585             nan     0.1000    0.0360
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+    20        0.7644             nan     0.1000   -0.0021
+     3        0.9257             nan     0.1000    0.0259
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9157             nan     0.1000    0.0285
+     4        0.8932             nan     0.1000    0.0191
+     1        0.9191             nan     0.1000    0.0275
+     2        0.8799             nan     0.1000    0.0251
+     2        0.8907             nan     0.1000    0.0194
+     5        0.8688             nan     0.1000    0.0142
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     3        0.8642             nan     0.1000    0.0211
+     1        1.0169             nan     0.1000    0.0304
+     3        0.8477             nan     0.1000    0.0190
+     4        0.8453             nan     0.1000    0.0058
+     2        0.9991             nan     0.1000    0.0137
+     6        0.8426             nan     0.1000    0.0220
+     3        0.9761             nan     0.1000    0.0262
+     5        0.8257             nan     0.1000    0.0160
+     4        0.9537             nan     0.1000    0.0173
+     6        0.8112             nan     0.1000    0.0079
+     4        0.8229             nan     0.1000    0.0142
+     5        0.9333             nan     0.1000    0.0189
+     7        0.8184             nan     0.1000    0.0147
+     7        0.7995             nan     0.1000    0.0076
+     6        0.9205             nan     0.1000    0.0107
+    40        0.6926             nan     0.1000   -0.0007
+    20        0.7076             nan     0.1000   -0.0000
+     8        0.7880             nan     0.1000    0.0057
+     7        0.9048             nan     0.1000    0.0150
+     5        0.8034             nan     0.1000    0.0146
+     8        0.8904             nan     0.1000    0.0107
+     9        0.7757             nan     0.1000    0.0085
+     8        0.7996             nan     0.1000    0.0113
+     9        0.8791             nan     0.1000    0.0033
+    10        0.7672             nan     0.1000    0.0024
+    10        0.8656             nan     0.1000    0.0096
+     6        0.7826             nan     0.1000    0.0127
+     9        0.7833             nan     0.1000    0.0103
+     7        0.7664             nan     0.1000    0.0107
+    10        0.7696             nan     0.1000    0.0082
+     8        0.7523             nan     0.1000    0.0090
+    60        0.6522             nan     0.1000   -0.0005
+     9        0.7371             nan     0.1000    0.0085
+    10        0.7240             nan     0.1000    0.0032
+    20        0.6869             nan     0.1000   -0.0002
+    40        0.7129             nan     0.1000    0.0013
+    80        0.6157             nan     0.1000    0.0004
+    20        0.6553             nan     0.1000   -0.0023
+    40        0.5939             nan     0.1000   -0.0005
+    20        0.6344             nan     0.1000   -0.0022
+   100        0.5839             nan     0.1000   -0.0010
+    60        0.6550             nan     0.1000    0.0006
+    40        0.5921             nan     0.1000   -0.0007
+   120        0.5587             nan     0.1000   -0.0006
+    80        0.6103             nan     0.1000   -0.0010
+    60        0.5193             nan     0.1000   -0.0012
+   140        0.5373             nan     0.1000   -0.0020
+   150        0.5274             nan     0.1000   -0.0012
+
+   100        0.5745             nan     0.1000   -0.0007
+    40        0.5259             nan     0.1000   -0.0001
+    60        0.5383             nan     0.1000   -0.0020
+   120        0.5483             nan     0.1000   -0.0008
+    40        0.5202             nan     0.1000   -0.0014
+    80        0.4693             nan     0.1000   -0.0014
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   140        0.5267             nan     0.1000   -0.0011
+   150        0.5161             nan     0.1000   -0.0037
+
+    80        0.4900             nan     0.1000   -0.0025
+    60        0.4484             nan     0.1000   -0.0021
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   100        0.4252             nan     0.1000   -0.0003
+    60        0.4513             nan     0.1000   -0.0017
+   100        0.4512             nan     0.1000   -0.0024
+   120        0.3913             nan     0.1000   -0.0012
+    80        0.3898             nan     0.1000   -0.0027
+   120        0.4156             nan     0.1000   -0.0013
+    80        0.3909             nan     0.1000   -0.0014
+   140        0.3644             nan     0.1000   -0.0019
+   140        0.3833             nan     0.1000   -0.0021
+   150        0.3516             nan     0.1000   -0.0023
+
+   100        0.3439             nan     0.1000   -0.0008
+   150        0.3712             nan     0.1000   -0.0027
+
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   100        0.3434             nan     0.1000   -0.0019
+   120        0.3075             nan     0.1000   -0.0014
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   120        0.3056             nan     0.1000   -0.0001
+   140        0.2757             nan     0.1000   -0.0014
+   150        0.2598             nan     0.1000   -0.0023
+
+   140        0.2728             nan     0.1000   -0.0020
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+   150        0.2584             nan     0.1000   -0.0010
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: intercept=TRUE 
++ Fold2.Rep1: intercept=TRUE 
+- Fold1.Rep1: intercept=TRUE 
+- Fold2.Rep1: intercept=TRUE 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: ncomp=15 
++ Fold2.Rep1: ncomp=15 
+- Fold1.Rep1: ncomp=15 
+- Fold2.Rep1: ncomp=15 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: C=1 
++ Fold2.Rep1: C=1 
+- Fold1.Rep1: C=1 
+- Fold2.Rep1: C=1 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold1.Rep1: sigma=0.01339, C= 32.00 
+Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold1.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.50 
++ Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=  1.00 
++ Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold1.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C=  0.25 
+- Fold1.Rep1: sigma=0.01339, C=  4.00 
++ Fold2.Rep1: sigma=0.01339, C=  0.50 
+- Fold1.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=  1.00 
+- Fold1.Rep1: sigma=0.01339, C=  8.00 
++ Fold2.Rep1: sigma=0.01339, C=  2.00 
+- Fold1.Rep1: sigma=0.01339, C= 16.00 
++ Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold1.Rep1: sigma=0.01339, C= 32.00 
++ Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.50 
++ Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C=  0.25 
++ Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C=  1.00 
++ Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=  2.00 
++ Fold2.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C=  4.00 
+- Fold2.Rep1: sigma=0.01339, C=  8.00 
+- Fold1.Rep1: sigma=0.01339, C= 64.00 
+- Fold1.Rep1: sigma=0.01339, C=128.00 
+- Fold2.Rep1: sigma=0.01339, C= 16.00 
+- Fold2.Rep1: sigma=0.01339, C= 32.00 
+- Fold2.Rep1: sigma=0.01339, C= 64.00 
+- Fold2.Rep1: sigma=0.01339, C=128.00 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold1.Rep1: degree=2, scale=0.001, C=0.50 
+ + Fold1.Rep1: degree=1, scale=0.010, C=0.50+ Fold1.Rep1: degree=2, scale=0.010, C=0.50  
+
+- Fold1.Rep1: degree=2, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=2, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.001, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.50 
++ Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold1.Rep1: degree=1, scale=0.010, C=0.25 
++ Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=2, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.25 
+- Fold2.Rep1: degree=1, scale=0.001, C=0.50 
+- Fold2.Rep1: degree=1, scale=0.010, C=0.50 
+- Fold2.Rep1: degree=2, scale=0.010, C=0.50 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: mtry= 2+ Fold1.Rep1: mtry=17 
+
++ Fold1.Rep1: mtry=33 
++ Fold1.Rep1: mtry=48 
++ Fold1.Rep1: mtry=64 
++ Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=17 
++ Fold2.Rep1: mtry=33 
+- Fold2.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=48 
+- Fold1.Rep1: mtry= 2 
++ Fold2.Rep1: mtry=64 
+- Fold1.Rep1: mtry=17 
+- Fold2.Rep1: mtry=17 
+- Fold1.Rep1: mtry=33 
+- Fold2.Rep1: mtry=33 
+- Fold1.Rep1: mtry=48 
+- Fold2.Rep1: mtry=48 
+- Fold1.Rep1: mtry=64 
+- Fold2.Rep1: mtry=64 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150  
+
++ Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
++ Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     1        0.9237             nan     0.1000    0.0201
+     2        0.9023             nan     0.1000    0.0220
+     3        0.8879             nan     0.1000    0.0097
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     4        0.8723             nan     0.1000    0.0146
+     5        0.8567             nan     0.1000    0.0130
+     1        0.9956             nan     0.1000    0.0389
+     6        0.8413             nan     0.1000    0.0089
+     7        0.8309             nan     0.1000    0.0048
+     2        0.9547             nan     0.1000    0.0258
+     8        0.8230             nan     0.1000    0.0076
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     9        0.8172             nan     0.1000    0.0038
+     1        1.0135             nan     0.1000    0.0294
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+    10        0.8105             nan     0.1000    0.0018
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     3        0.9244             nan     0.1000    0.0157
+     2        0.9925             nan     0.1000    0.0143
+     1        0.9143             nan     0.1000    0.0322
+     3        0.9664             nan     0.1000    0.0239
+     4        0.9424             nan     0.1000    0.0198
+     5        0.9278             nan     0.1000    0.0136
+     1        0.9135             nan     0.1000    0.0342
+     4        0.8918             nan     0.1000    0.0231
+     2        0.8889             nan     0.1000    0.0227
+     6        0.9103             nan     0.1000    0.0165
+     7        0.8962             nan     0.1000    0.0086
+     3        0.8665             nan     0.1000    0.0179
+     8        0.8805             nan     0.1000    0.0132
+     2        0.8808             nan     0.1000    0.0284
+     9        0.8684             nan     0.1000    0.0119
+Iter   TrainDeviance   ValidDeviance   StepSize   Improve
+     4        0.8486             nan     0.1000    0.0112
+     5        0.8655             nan     0.1000    0.0189
+    10        0.8567             nan     0.1000    0.0052
+    20        0.7527             nan     0.1000    0.0016
+     1        1.0054             nan     0.1000    0.0326
+     3        0.8545             nan     0.1000    0.0163
+     5        0.8375             nan     0.1000    0.0028
+     6        0.8428             nan     0.1000    0.0177
+     2        0.9741             nan     0.1000    0.0294
+     6        0.8203             nan     0.1000    0.0150
+     4        0.8276             nan     0.1000    0.0155
+     7        0.8191             nan     0.1000    0.0090
+     3        0.9473             nan     0.1000    0.0241
+     7        0.8028             nan     0.1000    0.0121
+     5        0.8017             nan     0.1000    0.0210
+     4        0.9224             nan     0.1000    0.0214
+     8        0.8024             nan     0.1000    0.0061
+     8        0.7893             nan     0.1000    0.0089
+     5        0.9039             nan     0.1000    0.0148
+     9        0.7793             nan     0.1000    0.0036
+     9        0.7844             nan     0.1000    0.0123
+     6        0.7864             nan     0.1000    0.0052
+    20        0.7867             nan     0.1000    0.0005
+     6        0.8804             nan     0.1000    0.0181
+    10        0.7714             nan     0.1000    0.0012
+    10        0.7680             nan     0.1000    0.0050
+     7        0.7722             nan     0.1000    0.0046
+     7        0.8613             nan     0.1000    0.0154
+     8        0.8472             nan     0.1000    0.0118
+     8        0.7584             nan     0.1000    0.0053
+    40        0.6882             nan     0.1000   -0.0002
+     9        0.8310             nan     0.1000    0.0085
+     9        0.7451             nan     0.1000    0.0048
+    10        0.8205             nan     0.1000    0.0012
+    10        0.7313             nan     0.1000    0.0060
+    20        0.6968             nan     0.1000    0.0005
+    40        0.7076             nan     0.1000   -0.0022
+    60        0.6458             nan     0.1000   -0.0004
+    20        0.6462             nan     0.1000    0.0006
+    20        0.7091             nan     0.1000    0.0041
+    20        0.6332             nan     0.1000   -0.0004
+    60        0.6498             nan     0.1000    0.0019
+    80        0.6107             nan     0.1000   -0.0006
+    80        0.6079             nan     0.1000   -0.0034
+    40        0.5953             nan     0.1000    0.0007
+   100        0.5827             nan     0.1000   -0.0027
+    40        0.5992             nan     0.1000    0.0000
+   100        0.5748             nan     0.1000    0.0004
+    40        0.5180             nan     0.1000   -0.0001
+   120        0.5581             nan     0.1000   -0.0001
+    40        0.5243             nan     0.1000   -0.0047
+   120        0.5485             nan     0.1000   -0.0009
+    60        0.5253             nan     0.1000   -0.0024
+    60        0.5362             nan     0.1000   -0.0011
+   140        0.5361             nan     0.1000   -0.0031
+   150        0.5249             nan     0.1000   -0.0015
+
+   140        0.5236             nan     0.1000   -0.0016
+   150        0.5142             nan     0.1000   -0.0005
+
+    60        0.4338             nan     0.1000   -0.0044
+    80        0.4713             nan     0.1000   -0.0014
+    80        0.4878             nan     0.1000   -0.0029
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+    60        0.4447             nan     0.1000   -0.0033
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=1, n.minobsinnode=10, n.trees=150 
+   100        0.4289             nan     0.1000   -0.0006
+   100        0.4475             nan     0.1000   -0.0018
+    80        0.3759             nan     0.1000   -0.0016
+   120        0.3947             nan     0.1000   -0.0004
+   120        0.4190             nan     0.1000   -0.0015
+    80        0.3878             nan     0.1000   -0.0024
+   100        0.3280             nan     0.1000   -0.0011
+   140        0.3861             nan     0.1000   -0.0013
+   140        0.3651             nan     0.1000   -0.0016
+   150        0.3732             nan     0.1000   -0.0015
+
+   120        0.2934             nan     0.1000   -0.0018
+   150        0.3521             nan     0.1000   -0.0009
+
+   100        0.3428             nan     0.1000   -0.0031
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=2, n.minobsinnode=10, n.trees=150 
+   140        0.2666             nan     0.1000   -0.0017
+   120        0.3063             nan     0.1000   -0.0003
+   150        0.2534             nan     0.1000   -0.0018
+
+- Fold1.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+   140        0.2785             nan     0.1000   -0.0018
+   150        0.2651             nan     0.1000   -0.0001
+
+- Fold2.Rep1: shrinkage=0.1, interaction.depth=3, n.minobsinnode=10, n.trees=150 
+starting worker pid=1144 on localhost:11561 at 00:30:31.056
+starting worker pid=14752 on localhost:11561 at 00:30:31.221
+starting worker pid=17256 on localhost:11561 at 00:30:31.377
+starting worker pid=6836 on localhost:11561 at 00:30:31.530
+starting worker pid=16844 on localhost:11561 at 00:30:31.684
+starting worker pid=19052 on localhost:11561 at 00:30:31.839
+starting worker pid=17348 on localhost:11561 at 00:30:32.000
+starting worker pid=22296 on localhost:11561 at 00:30:32.151
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Ejecución interrumpida
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
+Ejecución interrumpida
+Error in unserialize(node$con) : error al leer desde conexión
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Ejecución interrumpida
